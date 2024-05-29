@@ -5,3 +5,4 @@
  - can score faster time and more coins
  - similar to johnny upgrade
 - collected graphics and music
+- started main menu and basic movement
