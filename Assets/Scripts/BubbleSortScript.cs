@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using System;
 
-public class BubbleSort : MonoBehaviour
+public class BubbleSortScript : MonoBehaviour
 {
     public static void Main(string[] args)
     { 
